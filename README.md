@@ -55,11 +55,11 @@ To replicate the results of this study, please execute the files in the followin
 ### Clone the Repository
 ```bash
 git clone https://github.com/Awani-Soni/Satellite-Imagery-Based-Property-Valuation-.git
+```  <-- Add this line!
 
 ### Install Required Packages
 ```bash
 pip install pandas numpy xgboost tensorflow opencv-python matplotlib seaborn sentinelhub optuna shap
-```
 ---
 
 ### Environment Note  
