@@ -73,19 +73,19 @@ If running locally, please update the following variables at the top of each not
 
 ### Key Findings  
 
-- #### Best Model  
-Optimized XGBoost (9 features) achieved an R² score of 0.8884.
+ #### Best Model  
+- Optimized XGBoost (9 features) achieved an R² score of 0.8884.
 
-- #### Impact of Satellite Imagery  
-Satellite imagery provides a consistent performance boost when tabular data is limited.  
-However, its marginal contribution decreases when precise latitude/longitude and neighborhood density features are included.
+#### Impact of Satellite Imagery  
+- Satellite imagery provides a consistent performance boost when tabular data is limited.  
+- However, its marginal contribution decreases when precise latitude/longitude and neighborhood density features are included.
 
-- #### Model Explainability  
-Grad-CAM visualizations confirm that the neural network prioritizes:
+#### Model Explainability  
+- Grad-CAM visualizations confirm that the neural network prioritizes:
 
-- Green spaces  
-- Road connectivity  
-- Surrounding built density  
+- - Green spaces  
+- - Road connectivity  
+- - Surrounding built density  
 
 ---
 
