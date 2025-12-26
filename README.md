@@ -73,14 +73,14 @@ If running locally, please update the following variables at the top of each not
 
 ### Key Findings  
 
-#### Best Model  
+- #### Best Model  
 Optimized XGBoost (9 features) achieved an R² score of 0.8884.
 
-#### Impact of Satellite Imagery  
+- #### Impact of Satellite Imagery  
 Satellite imagery provides a consistent performance boost when tabular data is limited.  
 However, its marginal contribution decreases when precise latitude/longitude and neighborhood density features are included.
 
-#### Model Explainability  
+- #### Model Explainability  
 Grad-CAM visualizations confirm that the neural network prioritizes:
 
 - Green spaces  
