@@ -83,9 +83,9 @@ If running locally, please update the following variables at the top of each not
 #### Model Explainability  
 - Grad-CAM visualizations confirm that the neural network prioritizes:
 
-- - Green spaces  
-- - Road connectivity  
-- - Surrounding built density  
+  - Green spaces  
+  - Road connectivity  
+  - Surrounding built density  
 
 ---
 
