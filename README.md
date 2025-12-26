@@ -60,6 +60,7 @@ git clone https://github.com/Awani-Soni/Satellite-Imagery-Based-Property-Valuati
 ```bash
 pip install pandas numpy xgboost tensorflow opencv-python matplotlib seaborn sentinelhub optuna shap
 ```
+---
 
 ### Environment Note  
 The notebooks are optimized for Google Colab.  
@@ -67,6 +68,8 @@ If running locally, please update the following variables at the top of each not
 
 - BASE_PATH  
 - DRIVE_ZIP_PATH  
+
+---
 
 ### Key Findings  
 
@@ -83,6 +86,8 @@ Grad-CAM visualizations confirm that the neural network prioritizes:
 - Green spaces  
 - Road connectivity  
 - Surrounding built density  
+
+---
 
 ## Author  
 
