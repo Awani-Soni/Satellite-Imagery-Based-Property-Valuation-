@@ -60,6 +60,7 @@ git clone https://github.com/Awani-Soni/Satellite-Imagery-Based-Property-Valuati
 ### Install Required Packages
 ```bash
 pip install pandas numpy xgboost tensorflow opencv-python matplotlib seaborn sentinelhub optuna shap
+```
 ---
 
 ### Environment Note  
