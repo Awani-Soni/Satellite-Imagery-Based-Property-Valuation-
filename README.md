@@ -25,7 +25,7 @@ To replicate the results of this study, please execute the files in the followin
 - **`preprocessing_(9_extended_features)_model_training.ipynb`** **[PRIMARY MODEL]**  
   Best-performing pipeline using **9 extended tabular features**, combined with image embeddings.  
   Hyperparameters are optimized using **Bayesian Optimization (Optuna)**.  
-  This notebook generates the final **`test_prediction.csv`** file.
+  This notebook generates the final **`23322008_final.csv`** file.
 
 ---
 
