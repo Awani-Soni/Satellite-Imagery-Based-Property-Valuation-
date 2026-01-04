@@ -37,10 +37,10 @@ To replicate the results of this study, please execute the files in the followin
 ---
 
 ### Final Deliverables
-- **`test_prediction.csv`**  
+- **`23322008_final.csv`**  
   Final output file containing predicted property prices for the test dataset.
 
-- **`Report.pdf`**  
+- **`23322008_report.pdf`**  
   Complete project documentation including:
   - Overview 
   - EDA
